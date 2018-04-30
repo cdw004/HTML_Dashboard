@@ -1,0 +1,32 @@
+.background{
+    background-color:lightgray;
+}
+#summary{
+  color:teal;
+}
+
+#vizes{
+  color:teal
+}
+#compare{
+  color:maroon;
+}
+
+#data{
+  color:pink;
+}
+#temp{
+  color:navy
+}
+
+#humid{
+  color:black
+}
+
+#wind{
+  color:lightblue;
+}
+
+#cloud{
+  color:green;
+}
